@@ -1,0 +1,13 @@
+C:\Users\rlago\Documents\Banking.App\bin\Debug\netcoreapp3.1\Banking.App.exe
+C:\Users\rlago\Documents\Banking.App\bin\Debug\netcoreapp3.1\Banking.App.deps.json
+C:\Users\rlago\Documents\Banking.App\bin\Debug\netcoreapp3.1\Banking.App.runtimeconfig.json
+C:\Users\rlago\Documents\Banking.App\bin\Debug\netcoreapp3.1\Banking.App.runtimeconfig.dev.json
+C:\Users\rlago\Documents\Banking.App\bin\Debug\netcoreapp3.1\Banking.App.dll
+C:\Users\rlago\Documents\Banking.App\bin\Debug\netcoreapp3.1\Banking.App.pdb
+C:\Users\rlago\Documents\Banking.App\obj\Debug\netcoreapp3.1\Banking.App.csprojAssemblyReference.cache
+C:\Users\rlago\Documents\Banking.App\obj\Debug\netcoreapp3.1\Banking.App.AssemblyInfoInputs.cache
+C:\Users\rlago\Documents\Banking.App\obj\Debug\netcoreapp3.1\Banking.App.AssemblyInfo.cs
+C:\Users\rlago\Documents\Banking.App\obj\Debug\netcoreapp3.1\Banking.App.csproj.CoreCompileInputs.cache
+C:\Users\rlago\Documents\Banking.App\obj\Debug\netcoreapp3.1\Banking.App.dll
+C:\Users\rlago\Documents\Banking.App\obj\Debug\netcoreapp3.1\Banking.App.pdb
+C:\Users\rlago\Documents\Banking.App\obj\Debug\netcoreapp3.1\Banking.App.genruntimeconfig.cache

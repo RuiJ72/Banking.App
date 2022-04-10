@@ -1,0 +1,16 @@
+C:\Users\rlago\Documents\Banking.App\bin\Debug\net5.0\Banking.App.exe
+C:\Users\rlago\Documents\Banking.App\bin\Debug\net5.0\Banking.App.deps.json
+C:\Users\rlago\Documents\Banking.App\bin\Debug\net5.0\Banking.App.runtimeconfig.json
+C:\Users\rlago\Documents\Banking.App\bin\Debug\net5.0\Banking.App.runtimeconfig.dev.json
+C:\Users\rlago\Documents\Banking.App\bin\Debug\net5.0\Banking.App.dll
+C:\Users\rlago\Documents\Banking.App\bin\Debug\net5.0\ref\Banking.App.dll
+C:\Users\rlago\Documents\Banking.App\bin\Debug\net5.0\Banking.App.pdb
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\Banking.App.csprojAssemblyReference.cache
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\Banking.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\Banking.App.AssemblyInfoInputs.cache
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\Banking.App.AssemblyInfo.cs
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\Banking.App.csproj.CoreCompileInputs.cache
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\Banking.App.dll
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\ref\Banking.App.dll
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\Banking.App.pdb
+C:\Users\rlago\Documents\Banking.App\obj\Debug\net5.0\Banking.App.genruntimeconfig.cache
